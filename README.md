@@ -1,0 +1,1 @@
+I utilized Python and scikit-learn to develop and evaluate multiple machine learning models on the UCI Wine dataset and steel industry data, achieving significant accuracies. My efforts led to notable improvements in predictive analytics, demonstrated by average accuracies and R-squared values that optimized decision-making processes.
